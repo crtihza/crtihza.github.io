@@ -4,7 +4,7 @@ description: "专注于Web3与加密货币的个人博客，分享交易所资�
 keyword: "OKX官网，欧意交易所，OKX交易所，OKX登录，OKX Web3钱包，比特币价格，以太坊价格，Sui价格，人民币兑USDT，USDT换算人民币，区块链钱包，Web3博客，加密货币资讯，数字货币行情，去中心化金融"
 url: "https://crtihza.github.io"
 baseurl: ""
-github_repo: "https://github.com/crtihza/crtihza.github.io.git" # you code repository
+github_username:    crtihza
 header-img: img/post-bg-desk.jpg
 
 # 构建设置
